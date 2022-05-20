@@ -56,6 +56,21 @@ print("\n%s: %.2f%%" %(model.metrics_names[1], scores[1]*100))
 print(model.predict(training_data).round())
 ```
 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
 ## Output:
 ![XOR_O1](https://user-images.githubusercontent.com/77089743/169483748-8f886492-f36b-4531-adfd-a52e5cbdd759.PNG)
 
